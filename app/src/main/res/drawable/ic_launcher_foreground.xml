@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple transit card + NFC wave mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,42 h38 a4,4 0 0 1 4,4 v22 a4,4 0 0 1 -4,4 h-38 a4,4 0 0 1 -4,-4 v-22 a4,4 0 0 1 4,-4 z M30,50 h42 v4 h-42 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,40 a14,14 0 0 1 0,28 l0,-4 a10,10 0 0 0 0,-20 z M78,44 a9,9 0 0 1 0,20 l0,-4 a5,5 0 0 0 0,-12 z" />
+</vector>
